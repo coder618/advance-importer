@@ -26,8 +26,7 @@ class ADV_IMPORTER_AJAX{
 			}else{
 				echo json_encode([
 					'status' => false,
-					'data' => $_POST,
-					'message' => "Input not valid"
+					'message' => "Your Input not valid"
 				]);
 			}
 		}else{
