@@ -2,7 +2,7 @@
     $("#adv-importer-form").on("submit", function (e) {
         e.preventDefault();
         var t = $(this);
-        console.log("Submit trigger");
+        // console.log("Submit trigger");
 
         // gether information
         var user_input = $("#adv-importer-meta-string").val();
@@ -41,7 +41,7 @@
             },
             complete: function (res) {
                 submit_btn.attr("disabled", false).text(old_btn_text);
-                console.log(res);
+                // console.log(res);
             },
         });
     });

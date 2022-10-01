@@ -8,7 +8,7 @@
             name="export-with-attachment" 
             value="1" 
         />
-        <?php _e( 'Export with attachment(s)', 'export-with-attachment' ); ?>
+        <?php _e( 'Export with attachment(s)', 'adv-importer' ); ?>
 
     </label>
 </p>
