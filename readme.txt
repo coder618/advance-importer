@@ -10,15 +10,14 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A powerful plugin for import and export Post, Page, Custom post type all data.
+A powerful plugin for import and export Post, Page, any Custom post type data, with any kind of attachments.
 It work with native wordpress Importer and exporter.
-
 
 
 Some highlighted features:
 1. Import and Export with post/page/custom post type data with attachment(s) media
 2. Support any attachment data type, eg. Image, PDF, Sound etc
-3. Support Gutenberg editor data Import
+3. Support Gutenberg editor data Import, ACF plugin Attachment Data import etc.
 
 
 How to export 
@@ -54,7 +53,6 @@ For full documentation Please visit [https://coder618.github.io/advance-importer
 1. Settings page
 2. Import Process, You should tick the checkbox
 3. Export Process, You should tick the checkbox
-
 
 == Changelog ==
 
