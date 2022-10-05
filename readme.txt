@@ -47,7 +47,7 @@ Yes, This plugin will help you to import and export Any kind of Post data with r
 Yes, You can able to Import ACF plugin data with all attachment(s)
 
 == Documentation == 
-For full documentation Please visit [https://coder618.github.io/advance-importer](https://coder618.github.io/advance-importer/ "Advance Importer Full Documentation") 
+For full documentation Please visit: [https://coder618.github.io/advance-importer](https://coder618.github.io/advance-importer "Advance Importer Full Documentation") 
 
 == Screenshots ==
 1. Settings page
