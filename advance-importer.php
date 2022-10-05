@@ -5,7 +5,7 @@
  * Description: A powerful plugin for Import and export (Page, Post, Custom post type) data with Attachments.
  * Author: Coder618
  * Version: 1.0.0
- * Author URI: https://coder618.github.io/advance-importer
+ * Author URI: https://coder618.github.io/
  * Requires at least: 4.5
  * Requires PHP: 7.0
  * Text Domain: advance-importer
