@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Advance Importer
- * Plugin URI: https://wordpress.org/plugins/advance-importer/
+ * Plugin URI: https://wordpress.org/plugins/advance-importer
  * Description: A powerful plugin for Import and export (Page, Post, Custom post type) data with Attachments.
  * Author: Coder618
  * Version: 1.0.0
