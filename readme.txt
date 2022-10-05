@@ -52,8 +52,8 @@ For full documentation Please visit [https://coder618.github.io/advance-importer
 
 == Screenshots ==
 1. Settings page
-2. You should tick the checkbox
-3. You should tick the checkbox
+2. Import Process, You should tick the checkbox
+3. Export Process, You should tick the checkbox
 
 
 == Changelog ==
